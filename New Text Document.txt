@@ -1,0 +1,42 @@
+API --- application programming interface
+
+env:
+
+core 2.1
+npm
+typescript
+postman
+--------------------
+cmd F:path
+
+dotnet --help
+
+dotnet new -h
+
+dotnet new webapi -n name -o outputfolder
+
+dir
+
+cd outputfolder
+
+code .
+
+------------------
+terminal:
+
+dotnet run 
+
+dotnet watch run
+
+
+db :
+
+model ---> class.cs
+
+prop tab tab
+
+create  Data  ----> DataContext : DbContext
+
+
+
+
